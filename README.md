@@ -266,12 +266,14 @@ MIT
 3. 使用者需自行承担使用风险
 4. 本项目作者不对因使用本项目造成的任何后果负责
 
-🤝 贡献
+## 参考及感谢以下项目
 
-欢迎提交 Issue 和 Pull Request！
+### 禁漫Python爬虫
 
----
-
-Star ⭐ 这个项目，以便及时获取更新！
-
-```
+<a href="https://github.com/hect0x7/JMComic-Crawler-Python">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hect0x7&repo=JMComic-Crawler-Python&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hect0x7&repo=JMComic-Crawler-Python" />
+    <img alt="Repo Card" src="https://github-readme-stats.vercel.app/api/pin/?username=hect0x7&repo=JMComic-Crawler-Python" />
+  </picture>
+</a>
