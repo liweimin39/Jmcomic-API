@@ -26,19 +26,18 @@ Jmcomic API 是一个部署在 EdgeOne Pages 上的 Serverless API 服务，提�
 ```
 
 cloud-functions/
-├── requirements.txt              # Python 依赖
-└── api/                          # API 根目录
-├── index.py                  # /api - 服务信息
-├── album/
-│   └── index.py              # /api/album/* - 本子接口
-├── photo/
-│   └── index.py              # /api/photo/* - 章节接口
-└── utils/                    # 工具模块
-├── init.py
-├── client.py             # HTTP 客户端（域名获取、请求签名）
-├── parser.py             # 数据解析器（中文解码）
-├── crypto.py             # 加密工具（AES 解密、Token 生成）
-└── models.py             # 数据模型定义
+├── api/
+│   ├── album/
+│   │   └── index.py
+│   ├── photo/
+│   │   └── index.py
+│   └── utils/
+│       ├── __init__.py
+│       ├── client.py
+│       ├── crypto.py
+│       ├── models.py
+│       └── parser.py
+└── requirements.txt
 
 ```
 
