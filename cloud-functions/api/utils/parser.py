@@ -12,11 +12,12 @@ class JmParser:
     
     # CDN 域名池
     CDN_DOMAINS = [
-        'cdn-msp.jmapiproxy1.cc',
-        'cdn-msp.jmapiproxy2.cc',
-        'cdn-msp3.jmapiproxy2.cc',
-        'cdn-msp4.jmapiproxy.cc',
-        'cdn-msp5.jmapiproxy.cc',
+        "cdn-msp.jmapiproxy1.cc",
+        "cdn-msp.jmapiproxy2.cc",
+        "cdn-msp2.jmapiproxy2.cc",
+        "cdn-msp3.jmapiproxy2.cc",
+        "cdn-msp.jmapinodeudzn.net",
+        "cdn-msp3.jmapinodeudzn.net",
     ]
     
     @classmethod
